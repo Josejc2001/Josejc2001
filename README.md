@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Jose, a passionate software developer👨‍💻 I'm currently studing at University of Granada 🔥📚</div>  
+### <div align="center">I'm Jose, a passionate software developer👨‍💻 I'm currently studying at University of Granada 🔥📚</div>  
   
 
 - 🌱 I’m currently learning Angular and Python  
