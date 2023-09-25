@@ -33,7 +33,7 @@
 
 </td><td valign="top" width="25%">
   
-### Backend and Databases 
+### Backend
 <div align="center">  
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="50"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" height="50"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" height="50"/> </a> </p>
 </div>
